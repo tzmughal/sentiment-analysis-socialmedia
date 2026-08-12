@@ -1,0 +1,15 @@
+# Files exceeding GitHub's 100 MB per-file limit
+Dataset/train.csv
+Dataset/merged/1.jsonl
+Dataset/merged/2.jsonl
+Dataset/merged/3.jsonl
+Dataset/merged/4.jsonl
+Dataset/merged/5.jsonl
+Dataset/merged/6.jsonl
+Dataset/merged/7.jsonl
+Dataset/merged/8.jsonl
+Dataset/merged/9.jsonl
+Dataset/merged/10.jsonl
+Dataset/processed/jigsaw_processed.parquet
+Dataset/processed/social_processed.parquet
+models/deberta_v3_base/best_model/model.safetensors
